@@ -35,13 +35,10 @@ Finally, enable all of the rules that you would like to use.
 ```json
 {
   "rules": {
-    "agpl/valid-license": 1
+    "agpl/valid-license": [1, "2015 Arek Zajac"]
   }
 }
 ```
-# List of supported rules
-
-* [valid-license](docs/rules/valid-license.md):
 
 # license
 
