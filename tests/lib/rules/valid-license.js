@@ -39,14 +39,14 @@ eslintTester.addRuleTest('lib/rules/valid-license', {
         ' * You should have received a copy of the GNU Affero General Public License\n' +
         ' * along with this program. If not, see <http://www.gnu.org/licenses/>.\n' +
         ' */\n',
-      args: [1, "Arek Zajac"]
+      args: [1, 'Arek Zajac']
     }
   ],
 
   invalid: [
     {
       code: 'function doSomething(e) { var f = e; }',
-      args: [1, "Arek Zajac"],
+      args: [1, 'Arek Zajac'],
       errors: [{message: ERROR_MESSAGE, type: 'Program'}]
     }
   ]

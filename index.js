@@ -7,4 +7,4 @@ module.exports = {
   rulesConfig: {
     'valid-license': 0
   }
-}
+};
