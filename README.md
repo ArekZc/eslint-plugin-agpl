@@ -1,7 +1,7 @@
 eslint-plugin-agpl
 ===================
 
-![Maintenance Status][status-image]][status-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][deps-image]][deps-url] [![Coverage Status][coverage-image]][coverage-url] [![Code Climate][climate-image]][climate-url]
+![Travis status](https://api.travis-ci.org/ArekZc/eslint-plugin-agpl.svg)
 
 Eslint rules for AGPL
 
