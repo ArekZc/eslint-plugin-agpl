@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-agpl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Arek Zając <arekzc@gmail.com>",
   "description": "EsLint rule for AGPL",
   "main": "index.js",
