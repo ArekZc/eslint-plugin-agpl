@@ -31,7 +31,7 @@ eslintTester.addRuleTest('lib/rules/valid-license', {
         ' * Software Foundation, either version 3 of the License, or (at your option) any\n' +
         ' * later version.\n' +
         ' *\n' +
-        ' * This program is distrubuted in the hope that it will be useful,\n' +
+        ' * This program is distributed in the hope that it will be useful,\n' +
         ' * but WITHOUT ANY WARRANTY; without even the implied warranty of\n' +
         ' * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the\n' +
         ' * GNU Affero General Public License for more details.\n' +
